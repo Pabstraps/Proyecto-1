@@ -1,0 +1,36 @@
+@font-face {
+      font-family: ONE;
+      src: url(FjallaOne-Regular.ttf);
+}
+
+*{    margin-right: 0;
+      margin-left: 0;}
+
+a{    color: aliceblue;
+      text-decoration: none;
+      font-size: 25px;
+      position:relative;
+      left: 72%;
+      top: 66%; 
+}
+
+header{ background-color:mediumslateblue;
+        padding: 50px;}
+
+
+.Kirin{
+      font-family: ONE;
+      font-size: 95px;
+      margin: -5px;
+      position: relative;
+      left: -20px;
+      top: -20px;
+      width: 50%;
+}
+
+.Busqueda__Header{
+      position: absolute;
+      right: 375px;
+      top: 135px;
+}
+
